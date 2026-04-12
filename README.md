@@ -6,18 +6,20 @@ Yoooooooo, this is my attempt on making an alternative to omarchy, omarchy looks
 
 # Test
 Not sure if it works to just copy and paste this
-` sudo apt install \
-  swayfx swaybg xwayland \
-  waybar wofi mako \
-  swaylock swayidle lxqt-policykit \
-  pipewire wireplumber pavucontrol \
-  network-manager network-manager-gnome \
-  bluez blueman \
-  wl-clipboard cliphist \
-  thunar gvfs \
-  foot \
-  grim slurp wf-recorder \
-  brightnessctl power-profiles-daemon \
-  fontconfig papirus-icon-theme \
-  swww \
-  xdg-desktop-portal xdg-desktop-portal-wlr`
+```
+sudo apt install \
+swayfx swaybg xwayland \
+waybar wofi mako \
+swaylock swayidle lxqt-policykit \
+pipewire wireplumber pavucontrol \
+network-manager network-manager-gnome \
+bluez blueman \
+wl-clipboard cliphist \
+thunar gvfs \
+foot \
+grim slurp wf-recorder \
+brightnessctl power-profiles-daemon \
+fontconfig papirus-icon-theme \
+swww \
+xdg-desktop-portal xdg-desktop-portal-wlr
+```
